@@ -1,0 +1,19 @@
+{
+  "name": "websocket_cryptocompare",
+  "version": "1.0.0",
+  "description": "subscribe abd unsubscribe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "websocket_cryptocompare"
+  },
+  "keywords": [
+    "websocket",
+    "cryptocompare"
+  ],
+  "author": "yourock",
+  "license": "ISC"
+}
