@@ -1,8 +1,3 @@
-/*
- * Documentation
- * https://min-api.cryptocompare.com/documentation/websockets
-*/
-
 const WebSocket = require('websocket').w3cwebsocket
 const WSS_URL = 'wss://streamer.cryptocompare.com/v2'
 const API_KEY = '026748fd6d416e23e30db2f2109e50eb476e1bbed2dc27dc70d568f08c8dd66c'
